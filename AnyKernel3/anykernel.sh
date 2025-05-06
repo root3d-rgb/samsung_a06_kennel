@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=
+kernel.string=4.19.191-Frank-gd87860125e21-dirty
 do.devicecheck=0
 do.modules=0
 do.cleanup=1
